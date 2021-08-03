@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+[![jin0106's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/jin0106/github-readme-stats)
+
+
 <!--
 **jin0106/jin0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
