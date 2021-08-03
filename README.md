@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![jin0106's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/jin0106/github-readme-stats)
+[![jin0106's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin0106)](https://github.com/jin0106/github-readme-stats)
 
 
 <!--
