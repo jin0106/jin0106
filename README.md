@@ -5,6 +5,7 @@
 
 
 [![jin0106's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin0106)](https://github.com/jin0106/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin0106)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
