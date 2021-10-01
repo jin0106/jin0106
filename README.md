@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="mailto:wjinh93@gmail.com" target="_blank"><img src=""https://img.shields.io/badge/wjinh93@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white"/></a>
+<a href="mailto:wjinh93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wjinh93@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white"/></a>
 
 [![jin0106's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin0106)](https://github.com/jin0106/github-readme-stats)
 
