@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/dongjin-woo-123bb0160/" rel="nofollow"><img src="https://img.shields.io/badge/Dongjin Woo-0A66C2?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin0106&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin0106&hide=powershell,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
