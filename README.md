@@ -1,5 +1,8 @@
-### Hi there 👋
+### 우동진 / Dongjin Woo
 
+#### 📍 Frontend Developer in S.Korea
+#### 🧑🏻‍💻 JavaScript, TypeScript, React, etc
+<br>
 <a href="mailto:wjinh93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wjinh93@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dongjin-woo-123bb0160/" rel="nofollow"><img src="https://img.shields.io/badge/Dongjin Woo-0A66C2?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
